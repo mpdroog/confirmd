@@ -1,0 +1,12 @@
+{
+  "Listen": "localhost:8080",
+  "Cache": {
+    "Protocol": "tcp",
+    "Port": ":6379",
+    "Driver": "redis"
+  },
+  "Postcode": {
+    "Username": "hM2rSroNrPYmgBWluDGV6jNZHvQYbMXqIBZeF8rc0Tn",
+    "Password": "27AS6f7npddGkffGtK83Qltl9CrlPmriKrdDqN39Q2m"
+  }
+}
